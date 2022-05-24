@@ -1,6 +1,7 @@
-# flutter_application_1
+# Simple Project
 
-A new Flutter project.
+First project with Flutter! 
+Nothing amazing, just my beginning. 🥳
 
 ## Getting Started
 
@@ -8,8 +9,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Course: Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
